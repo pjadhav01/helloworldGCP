@@ -15,7 +15,7 @@ public class HelloworldApplication {
 
 	@RequestMapping("/")
 	public String hello(){
-		return "HelloWorld! DevOps Pipeline on GCP!" ;
+		return "HelloWorld! DevOps Pipeline on GCP! - TGIF!" ;
 	}
 }
 
